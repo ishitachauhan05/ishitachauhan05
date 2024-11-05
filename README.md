@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding and learning new technologies
 - 🌱 I’m currently learning C and DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
-- - 📫 How to reach me @ www.linkedin.com/in/ishita-chauhan-08738b308
+-  📫 How to reach me @ www.linkedin.com/in/ishita-chauhan-08738b308
 
 <!---
 ishitachauhan05/ishitachauhan05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
