@@ -1,6 +1,6 @@
 👋 Hi, I’m @ishitachauhan05
 <br>
-👩‍💻 Third-year B.Tech Computer Science student at Banasthali Vidyapith  
+👩‍💻 Third-year B.Tech Computer Science student at Banasthali Vidyapith
 <br>
 💡 Passionate about software development, problem solving, and learning new technologies
 <br>
